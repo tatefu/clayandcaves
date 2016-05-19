@@ -1,0 +1,137 @@
+html
+{
+
+	background: url("images/bimage.jpg") ;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.header-style{
+	padding: 10px;
+	background-color:#778587;
+}
+
+.navbar-default{
+	background-color:white;
+	height: 50px;
+	border: solid 1px red;
+	border-radius: 0px;
+
+}
+
+a.navbar-brand{
+
+		color: white	;
+}
+
+/*Style login*/
+.login{
+	font-size: 15px;
+	font-weight: 700;
+	line-height: 30px;
+	padding-right:10px;
+}
+
+/*Styling the glyphicon on the register button*/
+.glyphicon-pencil {
+	padding-right: 10px;
+}
+
+.resgiter-button .btn{
+	background-color: red;
+}
+.add-margin-left{
+	margin-left: 10px;
+}
+
+div.page-header
+{
+	background-color: rgba(0,0,2,0.5);
+	opacity: 0.8;
+	width: 65%;
+	margin: 10px auto;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+div.page-header h3
+{
+	color: #000000;
+	font-weight: bold;
+	font-size: 3.0em;
+
+}
+
+div.page-header p
+{
+	color: black;
+	font-weight: 700;
+	font-size: 15px;
+}
+.navbar-default .navbar-nav>li>a {
+	padding: 10px;
+	color: black;
+}
+
+.line-style{
+	border: red;
+}
+
+.move-center{
+	text-align: center;
+	padding:10% 0;
+}
+
+.content-styles{
+	margin-top: 20px;
+}
+
+/*Footer panel*/
+.panel-footer
+{
+	background-color: #333;
+	color: white;
+}
+
+.content_two{
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.search-page-form
+{
+	text-align:center;
+	padding-top: 20px;
+}
+
+.results{
+	background-color: gray;
+	margin: 5px;
+	border-radius: 5px; 
+}
+
+.header-conten
+{
+	color: red;
+}
+
+/*Register page*/
+.panel-default 
+{
+    border-color: #ddd;
+    margin-top: 100px;
+}
+
+.panel-body 
+{
+    padding: 25px;
+}
+
+.panel-body .form-horizontal
+{
+	margin: 0 auto;
+	width:70%;
+}
